@@ -12,6 +12,8 @@
 
 [Eigen加速指导03](https://blog.csdn.net/m0_37604894/article/details/104896489)
 
+[Eigen加速指导04](https://llijiajun.github.io/github-io/2020-04-04/C-03_Eigen_speed)
+
 
 **Eigen加速方法总结:**
 
