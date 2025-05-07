@@ -7,8 +7,11 @@
 # From Eigen get how to increase cpp performance
 ## Eigen 是怎么被加速的
 [Eigen加速指导01](https://zhuanlan.zhihu.com/p/426958583)
+
 [Eigen加速指导02](https://www.zhihu.com/question/28571059?sort=created)
-[Eigen加速指导03]()
+
+[Eigen加速指导03](https://blog.csdn.net/m0_37604894/article/details/104896489)
+
 
 **Eigen加速方法总结:**
 
